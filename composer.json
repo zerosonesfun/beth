@@ -1,8 +1,8 @@
 {
-    "name": "username/flarum-ext-name",
-    "description": "A lovely description.",
+    "name": "zerosonesfun/beth",
+    "description": "A lovely cursive font BBCode.",
     "type": "flarum-extension",
-    "keywords": ["discussion", "template"],
+    "keywords": ["discussion", "BBCode"],
     "license": "MIT",
     "authors": [
         {
@@ -12,8 +12,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/zerosonesfun/flarum-bbcode-template/issues",
-        "source": "https://github.com/zerosonesfun/flarum-bbcode-template",
+        "issues": "https://github.com/zerosonesfun/beth/issues",
+        "source": "https://github.com/zerosonesfun/beth",
         "forum": "https://discuss.flarum.org"
     },
     "homepage": "https://www.wilcosky.com",
@@ -33,10 +33,10 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Title",
+            "title": "Beth",
             "category": "feature",
             "icon": {
-                "name": "fas fa-",
+                "name": "fas fa-female",
                 "backgroundColor": "#ddd",
                 "color": "#000"
             }
