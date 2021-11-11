@@ -17,5 +17,9 @@ return [
                 '[beth]{TEXT1}[/beth]',
                 '<span class="beth">{TEXT1}</span>'
             );
+            $config->BBCodes->addCustom(
+                '[clean]{TEXT2}[/clean]',
+                '<span class="clean">{TEXT2}</span>'
+            );
         })
 ];
